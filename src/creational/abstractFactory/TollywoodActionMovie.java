@@ -1,4 +1,4 @@
-package abstractFactory;
+package creational.abstractFactory;
 
 public class TollywoodActionMovie implements ITollywoodMovie {
     @Override

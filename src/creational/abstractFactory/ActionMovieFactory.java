@@ -1,4 +1,4 @@
-package abstractFactory;
+package creational.abstractFactory;
 
 public class ActionMovieFactory implements IMovieFactory {
     @Override
