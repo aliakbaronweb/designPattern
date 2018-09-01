@@ -2,6 +2,8 @@ package abstractFactory;
 
 public class AbstractFactoryPatternEx {
 
+    // GoF Definition: Provides an interface for creating families of related or dependent objects without specifying
+    //their concrete classes.
     public static void main(String[] args) {
         System.out.println("***Abstract Factory Pattern Demo***");
         ActionMovieFactory actionMovies = new ActionMovieFactory();
